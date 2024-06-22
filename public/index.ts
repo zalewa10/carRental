@@ -9,8 +9,10 @@ import heartfilled from "./heart-filled.svg";
 import heartoutline from "./heart-outline.svg";
 import linkedin from "./linkedin.svg";
 import logo from "./logo.svg";
+import tire from "./tire.svg";
 import hero from "./hero.png";
 import herobg from "./hero-bg.png";
+import steeringwheel from "./steering-wheel.svg";
 
 export {
   facebook,
@@ -26,4 +28,6 @@ export {
   logo,
   hero,
   herobg,
+  tire,
+  steeringwheel,
 };
